@@ -1,4 +1,4 @@
-# Source this file to check if your R environment is set up correctly  
+# Source this file to check if your R environment is set up correctly
 
 local({
   check <- function(condition, msg, action) {
